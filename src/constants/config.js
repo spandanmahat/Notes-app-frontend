@@ -1,1 +1,1 @@
-export const BASE_URL = 'notes-app-backend-drab.vercel.app';
+export const BASE_URL = 'https://notes-app-backend-drab.vercel.app';
